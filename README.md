@@ -28,9 +28,10 @@ Material del Taller "Control de Versiones con Git" en el Pre-Congreso de Tecnolo
 ![](taller_utmach.jpeg)
 
 ## Página del Taller: [Taller Control de versiones con Git](https://lidefi87.github.io/2022-09-26-UTMach_enlinea/#setup)
-![](portada_git_utmach.jpg)
+![](portada_git_utmach.png)
 
 ## Taller: [Control de versiones con Git en vivo](https://www.facebook.com/msoftwareUTMACH/videos/822805705747978)
-![](foto_taller2.jpg)
 
 ## Lecciones: [The Carpentries: Control de versiones con Git](https://swcarpentry.github.io/git-novice-es/)
+
+## Presentación: [Slides Control de versiones con Git](https://github.com/lindajzmin/taller_git_utmach/blob/main/Slides_Control_de_versiones_Git.pdf)
